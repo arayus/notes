@@ -1,0 +1,1 @@
+--proxy-server="socks5://ip:port" --disable-backgrounding-occluded-windows
