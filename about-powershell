@@ -1,9 +1,0 @@
-## Run powershelle script in powershell
-```
-Set-ExecutionPolicy RemoteSigned
-```
-
-## Get windows feature list
-```
-Dism /online /Get-Features
-```
