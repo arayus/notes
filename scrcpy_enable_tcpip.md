@@ -7,3 +7,9 @@ adb -s device_name tcpip 5555
 ```shell
 scrcpy.exe --always-on-top --tcpip=ip_addr
 ```
+
+- enable tcp debug
+```shell
+adb.exe devices
+adb.exe -s AHPEBB2505001143 tcpip 5555
+```
